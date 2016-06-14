@@ -2,7 +2,7 @@
 
 ## Portfolio Website
 
-Listing:
+Listed:
 * About
    * Skills
 * Experiences
