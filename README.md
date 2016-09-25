@@ -18,5 +18,3 @@ Website managed by Justin Soon
 ## Copyright and License
 
 Copyright 2015. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-84676749-1/justinsoon.github.io?pixel)](justinsoon.github.io)
